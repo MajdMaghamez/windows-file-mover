@@ -1,0 +1,5 @@
+C:\Users\anonyoums\source\repos\stock-insight\stock-insight file mover\bin\Release\stock-insight file mover.exe.config
+C:\Users\anonyoums\source\repos\stock-insight\stock-insight file mover\bin\Release\stock-insight file mover.exe
+C:\Users\anonyoums\source\repos\stock-insight\stock-insight file mover\bin\Release\stock-insight file mover.pdb
+C:\Users\anonyoums\source\repos\stock-insight\stock-insight file mover\obj\Release\stock-insight file mover.exe
+C:\Users\anonyoums\source\repos\stock-insight\stock-insight file mover\obj\Release\stock-insight file mover.pdb
